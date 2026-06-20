@@ -4,7 +4,6 @@
 
 This project is an interactive Power BI dashboard built on the same U.S. domestic flights dataset used in the [Airport SQL Analysis project](./airport_sql_project.sql). While the SQL project answers specific business questions through queries, this dashboard provides a visual, explorable view of airline route performance, passenger volume, and seasonal trends — allowing stakeholders to filter and drill into the data interactively rather than read static query results.
 
-**File:** `airport_powerbi_dashboard.pbix`
 
 ##  Dataset
 
